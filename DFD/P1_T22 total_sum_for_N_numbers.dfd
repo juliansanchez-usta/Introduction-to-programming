@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+"Soft-total_sum_for_N_numbers
+Maker: Julian Sanchez
+this software is designed to calculate the sum and the average of N numbers "
+4
+1
+25
+"input the total numbers"
+5
+1
+14
+v_totalnumbers
+7
+0
+1
+19
+v_totalnumbers <= 0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+14
+v_totalnumbers
+1
+1
+1
+4
+1
+22
+"input the number ", i
+5
+1
+8
+v_number
+6
+1
+5
+v_sum
+16
+v_sum + v_number
+10
+6
+1
+9
+v_average
+22
+v_sum / v_totalnumbers
+4
+1
+76
+"for ", v_totalnumbers, " the sum is",v_sum,"and the average is ", v_average
+13
+4
+1
+42
+"ERR: please enter numbers greater than 0"
+13
+1
