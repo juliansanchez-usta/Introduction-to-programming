@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+"soft-salary-of-an-employee
+Maker: Julian Sanchez
+this software is designed to calculate the salary of an employee"
+4
+1
+18
+"input the income"
+5
+1
+8
+v_income
+4
+1
+27
+"input the the days worked"
+5
+1
+13
+v_days_worked
+6
+1
+8
+v_salary
+31
+(v_income / 30) * v_days_worked
+4
+1
+35
+"the employee salary is ", v_salary
+1

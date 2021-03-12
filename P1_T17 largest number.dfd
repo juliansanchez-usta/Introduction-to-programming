@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+"softare largest of tree numbers"
+4
+1
+19
+"input the numbers"
+5
+1
+22
+v_number1,v_number2,v_numer3
+7
+0
+1
+15
+v_number1 > v_number2
+7
+0
+1
+15
+v_number2 > v_number3
+4
+1
+32
+"the largest number is", number3
+13
+4
+1
+32
+"the largest number is", number2
+13
+13
+7
+0
+1
+15
+v_number1 > v_number3
+4
+1
+32
+"the largest number is", number3
+13
+4
+1
+32
+"the largest number is", number1
+13
+13
+1

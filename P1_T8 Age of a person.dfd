@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+97
+"softageperson
+Maker:Julian Sanchez
+this software is designed to calculate the age of a person"
+4
+1
+19
+"the year of birth"
+5
+1
+11
+v_yearbirth
+7
+0
+1
+18
+v_yearbirth > 2021
+6
+1
+5
+v_age
+19
+2021 -  v_yearbirth
+4
+1
+44
+"the age of person is: ",v_age ," years old"
+13
+4
+1
+69
+"ERR: this year is not valid - please enter a less than year to 2021"
+13
+1

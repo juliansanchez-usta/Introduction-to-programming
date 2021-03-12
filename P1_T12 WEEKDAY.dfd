@@ -1,0 +1,109 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+"Soft-weekday
+Maker: Julian Sanchez
+this software is designed to tell what day of the week it is"
+4
+1
+16
+"input a number"
+5
+1
+8
+v_number
+7
+0
+1
+29
+v_number <= 0 OR v_number > 7
+7
+0
+1
+12
+v_number = 1
+7
+0
+1
+12
+v_number = 2
+7
+0
+1
+12
+v_number = 3
+7
+0
+1
+12
+v_number = 4
+7
+0
+1
+12
+v_number = 5
+7
+0
+1
+12
+v_number = 6
+7
+0
+1
+12
+v_number = 7
+13
+4
+1
+19
+"the day is Sunday"
+13
+13
+4
+1
+21
+"the day is Saturday"
+13
+13
+4
+1
+19
+"the day is friday"
+13
+13
+4
+1
+21
+"the day is Thursday"
+13
+13
+4
+1
+22
+"the day is Wednesday"
+13
+13
+4
+1
+20
+"the day is Tuesday"
+13
+13
+4
+1
+19
+"the day is monday"
+13
+13
+4
+1
+76
+"ERR: The number entered is not valid-please enter a number between 1 and 7"
+13
+1

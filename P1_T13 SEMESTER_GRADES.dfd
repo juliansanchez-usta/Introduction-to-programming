@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+116
+"Soft-semestergrades
+Maker:Julian Sanchez
+this software is designed to calculate the final grade for the semester"
+4
+1
+17
+"input the notes"
+5
+1
+7
+v_note1
+5
+1
+7
+v_note2
+5
+1
+7
+v_note3
+5
+1
+7
+v_note4
+7
+0
+1
+117
+v_note1 < 0 OR v_note1 > 5 OR v_note2 < 0 OR v_note2 > 5 OR v_note3 < 0 OR v_note3 > 5 OR v_note4 < 0 OR v_note4 > 5 
+6
+1
+11
+v_finalnote
+63
+(v_note1*0.2) + (v_note2*0.25) + (v_note3*0.25) + (v_note4*0.3)
+4
+1
+50
+"the final grade for the semester is ",v_finalnote
+13
+4
+1
+82
+"ERR: one of the entered numbers is invalid-please enter a number between 0 and 5"
+13
+1

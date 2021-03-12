@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+103
+"Soft-paypoint
+Maker:Julian Sanchez
+This software is designed to calculate the invoice of 4 products"
+4
+1
+25
+"input the first product"
+5
+1
+2
+p1
+4
+1
+26
+"input the second product"
+5
+1
+2
+p2
+4
+1
+25
+"input the third product"
+5
+1
+2
+p3
+4
+1
+26
+"input the fourth product"
+5
+1
+2
+p4
+7
+0
+1
+44
+p1 <= 0 OR p2 <= 0  OR p3 <= 0  OR p4 <= 0  
+6
+3
+6
+Sumpro
+11
+p1+p2+p3+p4
+5
+IVA19
+13
+sumpro * 0.19
+5
+Total
+14
+Sumpro + Iva19
+4
+1
+96
+"The gross value is: $", Sumpro," the tax IVA 19% is:$", IVA19, " the total invoice is $", TOTAL
+13
+4
+1
+43
+"ERR: some of the products are less than 0"
+13
+1
